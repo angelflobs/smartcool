@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.4.11+commit.68ef5810"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": false,
+				"inputs": [],
+				"name": "AlmacenEther",
+				"outputs": [],
+				"payable": true,
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Contrato automatizados./autocontracts.sol": "growkeyauto"
+		},
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Contrato automatizados./autocontracts.sol": {
+			"keccak256": "0x9a57bde3e2550664f9f4bb6ba4fa9ae68167b97122532c83917bc60962d2afe0",
+			"urls": [
+				"bzzr://5aeb2fb7e375d9baa6ff46c32c051a9dec8b1af929ec0cec133aeb743b77168e"
+			]
+		}
+	},
+	"version": 1
+}

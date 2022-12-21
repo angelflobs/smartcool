@@ -1,0 +1,69 @@
+{
+	"compiler": {
+		"version": "0.8.4+commit.c7e474f2"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_name",
+						"type": "string"
+					},
+					{
+						"internalType": "string",
+						"name": "_wallet",
+						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_deposit",
+						"type": "uint256"
+					}
+				],
+				"name": "Invertir",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Contrato automatizados./autocontracts.sol": "invertion"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Contrato automatizados./autocontracts.sol": {
+			"keccak256": "0x924fd83d0068f703adf6e075eb5a639609dfebbadd7fc8b3b2a7d35fb27e1264",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://dcafae1a4b1b0223aa51575b803559dd4cecffe88552a0b19ab4b2ed4e58aa70",
+				"dweb:/ipfs/QmbfxkvseAQ8xTGjNciXibwVCrxZMcgLQdBBqaNt43ANxF"
+			]
+		}
+	},
+	"version": 1
+}
